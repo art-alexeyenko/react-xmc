@@ -1,0 +1,14 @@
+{
+  "packages": {
+    "@sitecore-cloudsdk/core": "0.5.2",
+    "@sitecore-cloudsdk/events": "0.5.2",
+    "@sitecore-cloudsdk/utils": "0.5.2",
+    "@sitecore-feaas/clientside": "0.5.19",
+    "@sitecore-jss/sitecore-jss": "22.8.0-canary.10",
+    "@sitecore-jss/sitecore-jss-cli": "22.8.0-canary.10",
+    "@sitecore-jss/sitecore-jss-dev-tools": "22.8.0-canary.10",
+    "@sitecore-jss/sitecore-jss-react": "22.8.0-canary.10",
+    "@sitecore-jss/sitecore-jss-rendering-host": "22.8.0-canary.10",
+    "@sitecore/byoc": "0.2.16"
+  }
+}
